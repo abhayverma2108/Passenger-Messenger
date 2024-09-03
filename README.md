@@ -168,23 +168,12 @@ NEXT_PUBLIC_PUSHER_APP_CLUSTER=xxx
 
 **NOTE:** Please make sure to keep your API keys and configuration values secure and do not expose them publicly.
 
-## :camera: Screenshots:
-
-![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
-
-![Realtime Messaging](/.github/images/img2.png "Realtime Messaging")
-
-![Create Group Chats](/.github/images/img3.png "Create Group Chats")
-
-![Edit your Profile](/.github/images/img4.png "Edit your Profile")
 
 ## :gear: Tech Stack
 
 [![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![Typescript](https://skillicons.dev/icons?i=ts "Typescript")](https://www.typescriptlang.org/ "Typescript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://vercel.app/ "Vercel") [![Prisma](https://skillicons.dev/icons?i=prisma "Prisma")](https://prisma.io/ "Prisma")
 
-## :wrench: Stats
 
-[![Stats for Messenger Clone](/.github/images/stats.svg "Stats for Messenger Clone")](https://pagespeed-insights-svg.glitch.me/?url=https://appmessenger.vercel.app/ "Stats for Messenger Clone")
 
 ## :raised_hands: Contribute
 
