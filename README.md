@@ -2,7 +2,7 @@
 
 # Messenger Clone - A Real-Time Messaging App using Next.js 14.
 
-![Messenger Clone - A Real-Time Messaging App using Next.js 14.](/.github/images/img_main.png "Messenger Clone - A Real-Time Messaging App using Next.js 14.")
+![Messenger Clone - A Real-Time Messaging App using Next.js 14.]
 
 [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/abhayverma2108)
 
